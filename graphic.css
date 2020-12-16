@@ -1,0 +1,81 @@
+body
+{
+	background-image:  linear-gradient(to bottom,#ce0031,#cc00ff)
+}
+h1
+{
+	font-style: oblique;
+}
+.a
+{
+	
+	line-height: 150%;
+	letter-spacing: 2px;
+	font-style:oblique;
+
+}
+
+h1
+{
+	text-align: center;
+	border-style: solid;
+	width:500px;
+	margin-left: 30%;
+
+}
+h3
+{
+	font-family: sans-serif;
+}
+ol
+{
+
+font-weight: bold;
+	/*text-decoration: underline;*/
+	line-height: 150%;
+}
+
+li
+{
+
+	display: inline;
+	margin:10px;
+}
+
+
+.adobe
+{
+	float: left;
+
+}
+
+.illustrator
+{
+	float: right;
+
+}
+.coral
+{
+	margin-top: 20%;
+
+}
+.ph
+{
+	font-style:oblique;
+	margin-left: 40%;
+
+}
+.oh
+{
+	font-style: oblique;
+	margin-left: 40%;
+}
+.core
+{
+	font-style: oblique;
+	margin-left: 40%;
+}
+img
+{
+	border: solid;
+}
